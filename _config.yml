@@ -8,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Gim Yeongjin # add your name
-author-img:  # add your photo
+author-img: profile.jpg # add your photo
 about-author: Developer studying at HYU, SOCC. # add description
 twitter: smilup2244 # add your Twitter handle
 facebook: smilu.pp # add your Facebook handle
